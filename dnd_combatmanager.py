@@ -84,7 +84,7 @@ def create_dict(dnd_dict):
 
 
 
-#set players/enemies to dead state:
+#set players/enemies to alive/dead state:
 def flipalive(dnd_dict):
     
     print("please enter who was downed/revived. if finished, type 'DONE'. \n")

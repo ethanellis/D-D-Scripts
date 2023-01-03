@@ -1,4 +1,4 @@
-# D-D-Scripts
+# D&D-Scripts
 Automating D&amp;D functions and mechanics
 
 Script 1: Combat manager
